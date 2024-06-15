@@ -1,10 +1,14 @@
 # Description
 
-This exemplofies a web admin interface that uses react-admin as a front-end and Genezio in the backend. It exposes some genezio classes as well as Genezio-based authentication.
+This exemplifies a web admin interface that uses react-admin as a front-end and Genezio in the backend. It exposes some genezio classes as well as Genezio-based authentication.
 
 You can play with it here: https://lime-recent-tuna.app.genez.io/
 
 # Deploying this example
+
+[![Deploy to Genezio](https://raw.githubusercontent.com/Genez-io/graphics/main/svg/deploy-button.svg)](https://dev.app.genez.io/start/deploy?repository=https://github.com/bogdanripa/genezio-react-admin)
+
+# Deploying this example (step by step)
 
 1. Clone this repository locally
 2. `cd example`
